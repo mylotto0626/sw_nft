@@ -1,0 +1,21 @@
+{
+  "name": "truffle",
+  "version": "1.0.0",
+  "description": "Truffle project with SimpleStorage contract",
+  "main": "truffle-config.js",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.0",
+    "@truffle/hdwallet-provider": "^2.1.4",
+    "chai-as-promised": "^7.1.1",
+    "dotenv": "^16.0.3",
+    "ipfs-api": "^26.1.2",
+    "ipfs-http-client": "^59.0.0",
+    "openzeppelin-contracts": "^4.0.0"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "author": "",
+  "license": "MIT",
+  "proxy": "http://localhost:5001"
+}

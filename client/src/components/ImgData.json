@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "url": "../imgs/nftimgs/nft_image1.png"
+    },
+    {
+      "id": 2,
+      "url": "../imgs/nftimgs/nft_image2.png"
+    },
+    {
+      "id": 3,
+      "url": "../imgs/nftimgs/nft_image3.jpg"
+    },
+    {
+      "id": 4,
+      "url": "../imgs/nftimgs/nft_image4.png"
+    },
+    {
+      "id": 5,
+      "url": "../imgs/nftimgs/nft_image5.jpg"
+    },
+    {
+      "id": 6,
+      "url": "../imgs/nftimgs/nft_image6.jpg"
+    },
+    {
+      "id": 7,
+      "url": "../imgs/nftimgs/nft_image7.jpg"
+    },
+    {
+      "id": 8,
+      "url": "../imgs/nftimgs/nft_image8.jpg"
+    },
+    {
+      "id": 9,
+      "url": "../imgs/nftimgs/nft_image9.jpg"
+    },
+    {
+      "id": 10,
+      "url": "../imgs/nftimgs/nft_image10.webp"
+    },
+    {
+      "id": 11,
+      "url": "../imgs/nftimgs/nft_image11.jpg"
+    },
+    {
+      "id": 12,
+      "url": "../imgs/nftimgs/nft_image12.jpg"
+    }
+  ]
+}
